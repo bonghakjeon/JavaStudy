@@ -8,7 +8,7 @@
 
 package DesignPattern.Observer2;
 
-import java.util.Observable;
+// import java.util.Observable;
 
 public class Button extends Observable {
 

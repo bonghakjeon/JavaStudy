@@ -7,8 +7,7 @@
 
 package DesignPattern.Observer2;
 
-import java.util.Observable;
-import java.util.Observer;
+import DesignPattern.Observer2.Observable.Observer;
 
 public class Application {
     public static void main(String[] args) {
